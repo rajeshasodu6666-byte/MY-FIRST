@@ -15,8 +15,7 @@ public class Calculator {
         double diff = num1 - num2;
 
         System.out.println("Addition: " + sum);
-        System.out.println("Subtraction: " + diff);
-
+       
         scanner.close();
     }
 }
